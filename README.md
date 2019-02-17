@@ -23,5 +23,7 @@ Um empréstimo pode ser realizado facilmente, basta apenas aproximar ao sensor u
 
 Imagem 4: Tabela de empréstimos
 
+
+
 # 3.Web
 
