@@ -23,6 +23,18 @@ Um empréstimo pode ser realizado facilmente, basta apenas aproximar ao sensor u
 
 Imagem 4: Tabela de empréstimos
 
+Caso o usuário precise buscar algum item, ele poderá ter uma opção de busca pelo nome do objeto, caso esse objeto seja encontrado ele será descrito em uma nova tabela na mesma aba de busca, essa tabela tem a opção de ser limpa, após a busca ser terminada.
+
+Imagem 5: Busca
+
+A interface também garante as opções de salvar ou abrir um arquivo de texto "csv". Essas funções são bastante úteis, visto que pode ter o armazenamento de dados salvo durante vários dias, sem haver a perda de informações durante o processo.
+
+Imagem 6: Salvando dados
+
+Imagem 7: Abrindo arquivos
+
+
+
 
 
 # 3.Web
