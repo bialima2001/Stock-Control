@@ -19,5 +19,9 @@ Ainda no QT, os dispositivos serão armazenados em uma tabela, contendo: Nome,c�
 
 Imagem 3: Tabela de itens cadastrados
 
+Um empréstimo pode ser realizado facilmente, basta apenas aproximar ao sensor um chip já cadastrado, após isso basta apenas digitar o nome do usufruidor, então será criada outra tabela, contendo os dados da pessoa que realizou o empréstimo, além de armazenar as datas de empréstimo e devolução.
+
+Imagem 4: Tabela de empréstimos
+
 # 3.Web
 
