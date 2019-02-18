@@ -9,8 +9,10 @@ O circuito que integra o sensor RFID com o Arduino é bastante simples. Basta se
 
 ## Pinagem Leitor RFID:
 
-& Pino SDA ligado na porta 10 do Arduino
+Pino SDA ligado na porta 10 do Arduino
+
 Pino SCK ligado na porta 13 do Arduino
+
 Pino MOSI ligado na porta 11 do Arduino
 Pino MISO ligado na porta 12 do Arduino
 Pino NC – Não conectado
