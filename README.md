@@ -7,7 +7,7 @@ Resumo: O Stock Control é um protótipo destinado a armazenamento de dados de o
 # 1.Circuito
 O circuito que integra o sensor RFID com o Arduino é bastante simples. Basta seguir os passos abaixo:
 
-## Pinagem Leitor RFID:
+#### Pinagem Leitor RFID:
 
 Pino SDA ligado na porta 10 do Arduino
 
