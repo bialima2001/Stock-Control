@@ -2,7 +2,7 @@
 # Stock-Control 
 Controle de Almoxarifado utilizando sensor RFID
 
-Resumo: O Stock Control é um protótipo destinado a armazenamento de dados de objetos, podendo atuar em vários ambientes. Tem como principal objetivo o cadastro de itens, dos quais podem ser encontrados em um dos seguintes status : "Disponível" ou "Emprestado", sendo o item listado como "Disponivel", ele pode ser encontrado no estoquue e facilmente ser emprestado a qualquer usuário, após o empréstimo o programa armazena dados do usuário,tal como data de empréstimo e devolução,tendo assim o total domínio desses objetos.
+Resumo: O Stock Control é um protótipo destinado a armazenamento de dados de objetos, podendo atuar em vários ambientes. Tem como principal objetivo o cadastro de itens, dos quais podem ser encontrados em um dos seguintes status: "Disponível" ou "Emprestado", sendo o item listado como "Disponível", ele pode ser encontrado no estoquue e facilmente ser emprestado a qualquer usuário. Após o empréstimo o programa armazena dados do usuário,tal como data de empréstimo e devolução, tendo assim o total domínio desses objetos.
 
 # 1.Circuito
 
@@ -13,7 +13,7 @@ A interface no Qt é onde acontece as principais funções do programa. Primeira
 
 Imagem 1: Acesso a portas
 
-Após a conexão da porta o usuário terá que cadastrar cada item disponivel através de Chips Mifare, eles podem estar contidos em cartões, tags, pulseiras, e mais uma infinidade de dispositivos, funcionam em distâncias de até 10cm e cada chip possui um código único usado para identificação. Após a aproximação do chip ao sensor a interface irá receber seu código, através da comunicação em formato JSON. Depois do código identificado, basta apenas escolher um nome para o objeto.
+Após a conexão da porta o usuário terá que cadastrar cada item disponível através de Chips Mifare, eles podem estar contidos em cartões, tags, pulseiras, e mais uma infinidade de dispositivos, funcionam em distâncias de até 10cm e cada chip possui um código único usado para identificação. Após a aproximação do chip ao sensor a interface irá receber seu código, através da comunicação em formato JSON. Depois do código identificado, basta apenas escolher um nome para o objeto.
 
 Imagem 2: Cadastro de Itens
 
