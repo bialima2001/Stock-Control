@@ -5,6 +5,18 @@ Controle de Almoxarifado utilizando sensor RFID
 Resumo: O Stock Control é um protótipo destinado a armazenamento de dados de objetos, podendo atuar em vários ambientes. Tem como principal objetivo o cadastro de itens, dos quais podem ser encontrados em um dos seguintes status: "Disponível" ou "Emprestado", sendo o item listado como "Disponível", ele pode ser encontrado no estoquue e facilmente ser emprestado a qualquer usuário. Após o empréstimo o programa armazena dados do usuário,tal como data de empréstimo e devolução, tendo assim o total domínio desses objetos.
 
 # 1.Circuito
+O circuito que integra o sensor RFID com o Arduino é bastante simples. Basta seguir os passos abaixo:
+
+## Pinagem Leitor RFID:
+
+& Pino SDA ligado na porta 10 do Arduino
+Pino SCK ligado na porta 13 do Arduino
+Pino MOSI ligado na porta 11 do Arduino
+Pino MISO ligado na porta 12 do Arduino
+Pino NC – Não conectado
+Pino GND  ligado no pino GND do Arduino
+Pino RST ligado na porta 9 do Arduino
+Pino 3.3 – ligado ao pino 3.3 V do Arduino
 
 ![](Imagens/circuito.png)
 
