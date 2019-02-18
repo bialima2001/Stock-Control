@@ -1,4 +1,4 @@
-![](Imagens/titulo.png) 
+![](Imagens/Capa.png) 
 # Stock-Control 
 Controle de Almoxarifado utilizando sensor RFID
 
