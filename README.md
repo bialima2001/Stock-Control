@@ -40,6 +40,6 @@ Imagem 7: Abrindo arquivos
 
 
 # 3.Servidor Web
-É por meio do Servidor Web que o usuário poderá verificar o estado do item desejado. Através dele é possível descobrir se o item está disponível ou indisponível para empréstimo. Dessa forma o usuário tem a total liberdade para pesquisar seu produto de qualquer lugar, bastando apenas saber o nome do que está à procura.
+É por meio do Servidor Web que o usuário poderá verificar o estado do item desejado. Através dele é possível descobrir se o item está disponível ou indisponível para empréstimo. Dessa forma o usuário tem a total liberdade para pesquisar seu item de qualquer lugar, bastando apenas saber o nome do que está à procura.
 
 Imagem 8: Interface do Servidor Web
