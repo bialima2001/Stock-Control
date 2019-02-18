@@ -6,6 +6,8 @@ Resumo: O Stock Control é um protótipo destinado a armazenamento de dados de o
 
 # 1.Circuito
 
+![](Imagens/circuito.png)
+
 # 2.Interface QT  
 A interface no Qt é onde acontece as principais funções do programa. Primeiramente o programa irá mostrar todas as portas seriais disponiveis para acesso, ao escolher a porta que conecta ao circuito o programa liberará ao usuário todas as outras funções, mas o usuário só terá acesso se a porta escolhida conectar com o circuito, caso não ocorra as outras funções permanecem bloqueadas.
 
